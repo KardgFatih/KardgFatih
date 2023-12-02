@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **karadagfatih183@gmail.com**
 
-- ⚡ Fun fact **I need an ambitious team that will develop original games**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kardg_fatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kardg_fatih" height="30" width="40" /></a>
