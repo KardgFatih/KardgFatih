@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Karadağ</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kardgfatih&label=Profile%20views&color=0e75b6&style=flat" alt="kardgfatih" /> </p>
-
 <p align="left"> <a href="https://twitter.com/kardg_fatih" target="blank"><img src="https://img.shields.io/twitter/follow/kardg_fatih?logo=twitter&style=for-the-badge" alt="kardg_fatih" /></a> </p>
 
 - 🌱 I’m currently learning **Data analysis and Artifical intelligence**
